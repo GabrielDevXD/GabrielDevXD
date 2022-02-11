@@ -1,4 +1,4 @@
-## Olá meu nome é Gabriel tenho 19 anos e estudo fullstack
+## Olá meu nome é Gabriel tenho 19 anos, sou estudante de fullstack
 <div align="center">
   <a href="https://github.com/Tanjironey">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tanjironey&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
